@@ -7,7 +7,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ChristianT_M?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ChristianT_M)
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Developer;I+❤️+React+⚛️;Always+learning+new+things&center=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Programming+is+not+about+what+you+know;It's+about+what+you+can+figure+out!&left=true&width=500&height=50"></a>
 
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
@@ -93,8 +93,3 @@
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubhadeepZilong&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
-
------
-Credits: [SubhadeepZilong](https://github.com/SubhadeepZilong)
-
-Last Edited on: 12/03/2022
