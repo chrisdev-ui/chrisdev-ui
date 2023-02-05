@@ -5,7 +5,7 @@
 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/subhadeepzilong?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ChristianT_M)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ChristianT_M?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ChristianT_M)
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Developer;I+❤️+React+⚛️;Always+learning+new+things&center=true&width=500&height=50"></a>
 
