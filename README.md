@@ -86,7 +86,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   
-   <a href="https://github.com/chrisdev-ui"><img alt="Christian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chrisdev-ui&custom_title=chrisdev-ui's%20Contribution%20Graph&theme=react-dark" /></a>
+   [![Christian's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chrisdev-ui&theme=react-dark)](https://github.com/chrisdev-ui/github-readme-activity-graph)
    
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
