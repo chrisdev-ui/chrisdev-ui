@@ -5,17 +5,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisdev-ui&theme=gruvbox" alt="chrisdev-ui" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/christiant_m" target="blank"><img src="https://img.shields.io/twitter/follow/christiant_m?logo=twitter&style=for-the-badge" alt="christiant_m" /></a> </p>
+<p align="center"> <a href="https://twitter.com/christiant_m" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/christiant_m?logo=twitter&style=for-the-badge" alt="christiant_m" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/christiantorresm" target="blank"><img align="center" src="https://img.shields.io/badge/Christian%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Torres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;<a href="mailto:web.christian.dev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/web.christian.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://www.github.com/chrisdev-ui" target="blank"><img align="center" src="https://img.shields.io/badge/chrisdev-ui-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 - 🌱 I’m currently learning **Next.js, Vue.js, Angular, Svelte and others...**
 
 - 👨‍💻 All of my projects are available at [[working on it...]]([working on it...])
 
 - 💬 Ask me about **React.js**
-
-- 📫 How to reach me **web.christian.dev@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/christiantorresm/](https://www.linkedin.com/in/christiantorresm/)
 
 - ⚡ Fun fact **I like to code so much and be healthy at the same time 💻 + 💪🏽**
 
